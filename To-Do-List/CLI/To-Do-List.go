@@ -1,4 +1,4 @@
-/*package main
+package main
 
 import (
 	"bufio"
@@ -195,4 +195,3 @@ func clearScreen() {
 }
 
 //END LINE
-*/
